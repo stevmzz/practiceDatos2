@@ -1,0 +1,20 @@
+# ninja log v6
+6	639	7658561514313794	CMakeFiles/practice.dir/main.cpp.obj	69db0df6a9664674
+1	224	7658591344475019	build.ninja	85a88e5cf47f6735
+616	739	7658562621263243	practice.exe	ff3addd261045590
+12	616	7658562615224660	CMakeFiles/practice.dir/src/pointers.cpp.obj	c204539c70862d3e
+16	372	7658591344475019	build.ninja	85a88e5cf47f6735
+9	667	7658591662473343	CMakeFiles/practice.dir/pointers/pointers.cpp.obj	e64e5f5b6a0ee2aa
+5	713	7658591662428613	CMakeFiles/practice.dir/main.cpp.obj	69db0df6a9664674
+713	849	7658591669508865	practice.exe	1656e1fdbbbc66bf
+19	805	7658594667856157	CMakeFiles/practice.dir/pointers/pointers.cpp.obj	e64e5f5b6a0ee2aa
+10	691	7658596763238265	CMakeFiles/practice.dir/pointers/pointers.cpp.obj	e64e5f5b6a0ee2aa
+4	817	7658597513551403	CMakeFiles/practice.dir/main.cpp.obj	69db0df6a9664674
+6	596	7658598742656372	CMakeFiles/practice.dir/pointers/pointers.cpp.obj	e64e5f5b6a0ee2aa
+597	737	7658598748566795	practice.exe	1656e1fdbbbc66bf
+29	701	7658603218643715	CMakeFiles/practice.dir/pointers/pointers.cpp.obj	e64e5f5b6a0ee2aa
+701	820	7658603225356218	practice.exe	1656e1fdbbbc66bf
+5	513	7658604319524258	CMakeFiles/practice.dir/pointers/pointers.cpp.obj	e64e5f5b6a0ee2aa
+513	622	7658604324603127	practice.exe	1656e1fdbbbc66bf
+5	528	7658606138387687	CMakeFiles/practice.dir/pointers/pointers.cpp.obj	e64e5f5b6a0ee2aa
+529	648	7658606143639985	practice.exe	1656e1fdbbbc66bf
